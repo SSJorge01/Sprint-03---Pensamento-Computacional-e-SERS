@@ -18,6 +18,10 @@ Dentre as escolhas feitas por projeto, optamos por utilizar a Alexa como assiste
 
 Em relação a linguagem de programação, optamos pelo uso de Python, pois, além de ser uma linguagem simples e eficiente, permitindo o desenvolvimento de aplicações de forma prática, também é uma das linguagens mais utilizadas para análise de dados, o que é um grande facilitador para o ponto central do projeto, sendo a análise de consumo.
 
+## Resultados e dados funcionais apresentados
+
+Como resultado do nosso projeto, tivemos um meio facilitado do usuário de verificar seus dados referentes ao consumo energético, permitindo, através de dashboards e gráficos, além da própria Alexa, a visualização do consumo energético e da geração, além de permitir a manipulação dos dispositivos na rede, permitindo um controle e gastos mais eficientes.
+
 ## Conexões com as disciplinas
 
 Analisando o projeto e todo o seu desenvolvimento, conseguimos perceber como ele se correlaciona com ambas as disciplinas.
