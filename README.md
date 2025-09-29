@@ -9,13 +9,16 @@ Nome: Pedro Paulo Barbosa Ross -> RM: 563038
 
 Nome: Samuel de Souza Jorge -> RM: 558966
 
-### Justificativa técnica das escolhas
+## Integração dos componentes
+![fluxograma](source/fluxograma.png)
+
+## Justificativa técnica das escolhas
 
 Dentre as escolhas feitas por projeto, optamos por utilizar a Alexa como assistente virtual base por conta de sua facilidade de configuração através das Skills, além de ser um LLM já utilizado por grande parte dos usuários no quesito de automação residencial, o que facilita e amplia sua implementação sem a necessidade de diversos hardwares extras.
 
 Em relação a linguagem de programação, optamos pelo uso de Python, pois, além de ser uma linguagem simples e eficiente, permitindo o desenvolvimento de aplicações de forma prática, também é uma das linguagens mais utilizadas para análise de dados, o que é um grande facilitador para o ponto central do projeto, sendo a análise de consumo.
 
-### Conexões com as disciplinas
+## Conexões com as disciplinas
 
 Analisando o projeto e todo o seu desenvolvimento, conseguimos perceber como ele se correlaciona com ambas as disciplinas.
 
